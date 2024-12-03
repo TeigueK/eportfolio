@@ -82,7 +82,7 @@ p {
 }
 
 .go-home-button {
-    background-image: url(C:/xampp/htdocs/portfolio/associated-images/atomicon2.png);
+    background-image: url(atomicon2.png);
     background-size: 90px 58px;
     background-color: black;
     border: none;
@@ -99,7 +99,7 @@ p {
     box-shadow: 2px 4px 5px black;
     border: 3px solid white;
     transition: 0.4s;
-    background-image: url(C:/xampp/htdocs/portfolio/associated-images/atomicon.png);
+    background-image: url(atomicon.png);
 }
 
 .divs-wrapper {
@@ -126,7 +126,7 @@ p {
     margin: auto;
     width: 840px;
     height: 500px;
-    background-image: url(C:/xampp/htdocs/portfolio/associated-images/portphoto.jpg);
+    background-image: url(portphoto.jpg);
     background-size: 840px 500px;
     box-shadow: 25px 0px 40px 20px rgb(102, 102, 141) inset, -25px 0px 40px 20px rgb(102, 102, 141) inset; 
 }
