@@ -2,6 +2,11 @@
     font-family: 'Times New Roman';
 }
 
+a {
+    color: rgb(153, 166, 240);
+    
+}
+
 body {
     background-color: black;
     height: 1000px;
@@ -131,7 +136,7 @@ p {
     margin: auto;
     width: 840px;
     height: 500px;
-    background-image: url(portphoto.jpg);
+    background-image: url(altoona_winter6.jpg);
     background-size: 840px 500px;
     box-shadow: 25px 0px 40px 20px rgb(102, 102, 141) inset, -25px 0px 40px 20px rgb(102, 102, 141) inset; 
 }
@@ -195,4 +200,20 @@ p {
     font-style: italic;
     font-size: 15px;
     font-weight: bold;
+}
+
+.contact-icon {
+    height: 35px;
+    width: 35px;
+    padding-top: 0px;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    mix-blend-mode:saturation(50);
+    
+}
+
+.mywork-divs {
+    background-color: rgb(97, 63, 136);
+    width: 640px;
 }
