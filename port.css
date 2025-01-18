@@ -121,6 +121,16 @@ p {
     width: 100%;
     margin: 0px;
 
+    font-size: 20px;
+}
+
+.divs-wrapper2 {
+    position: absolute;
+    top: 100px;
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+
     display: flex;
     flex-direction: row;
     font-size: 20px;
@@ -129,7 +139,7 @@ p {
 #photo-plus-byline {
     position: relative;
     background-color: rgb(102, 102, 141);
-    height: 700px;
+    height: 450px;
     overflow: hidden;
 }
 
@@ -176,7 +186,7 @@ p {
     margin-bottom: 40px;
 
     width: 800px;
-    height: 800px;
+    height: 340px;
 
     padding-top: 10px;
     padding-bottom: 10px;
@@ -216,7 +226,6 @@ p {
     mix-blend-mode:saturation(50);
     
 }
-
 
 .mywork-divs {
     margin-left: 40px;
